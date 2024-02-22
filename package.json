@@ -1,0 +1,21 @@
+{
+  "name": "express_rest_with_jest_supertest",
+  "version": "1.0.0",
+  "description": "Testing Express REST API With Jest &amp; Supertest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.1.3",
+    "node-mocks-http": "^1.14.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.3.4"
+  }
+}
